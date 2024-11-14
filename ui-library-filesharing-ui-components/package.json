@@ -10,7 +10,7 @@
   "dependencies": {},
   "devDependencies": {
     "@azure/static-web-apps-cli": "^0.8.3",
-    "azure-functions-core-tools": "^4.0.5455"
+    "azure-functions-core-tools": "^4.0.6280"
   },
   "prettier": {
     "printWidth": 120
