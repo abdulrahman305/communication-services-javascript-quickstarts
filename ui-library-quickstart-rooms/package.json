@@ -5,7 +5,7 @@
   "dependencies": {
     "@azure/communication-calling": "^1.26.1",
     "@azure/communication-chat": "^1.5.1",
-    "@azure/communication-react": "^1.18.1",
+    "@azure/communication-react": "^1.22.0",
     "@azure/communication-rooms": "1.1.0",
     "@fluentui/react": "8.117.1",
     "@testing-library/jest-dom": "^5.14.1",
